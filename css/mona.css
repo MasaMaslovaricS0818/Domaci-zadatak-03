@@ -1,0 +1,188 @@
+.container
+{
+    width: 90%;
+    background-color: white;
+    margin: 0 auto;
+}
+* {
+    box-sizing:border-box;
+}
+.Prvideo
+{    
+    text-align: center;
+}
+.Prvideo img{
+    height: 700px;
+    width: 600px;
+}
+.Drugideo
+{
+    text-align: center;
+}
+.Drugideo img
+{
+    height: 500px;
+    width: 1200px;
+    margin-left: 50px;
+}
+.left 
+{
+    padding:20px;
+    float:left;
+    width:30%; 
+    margin-left: 30px;
+}
+.proizvodi
+{    
+    padding:20px;
+    float:left;
+    width:30%;    
+    margin-left: 30px;
+}
+.right
+{
+    padding:20px;
+    float:left;
+    width:30%; 
+    margin-left: 30px;
+}
+.header
+{
+    background-color: black;
+}
+.headder img
+{
+    margin-left: 20%;
+  
+}
+h1
+{
+    text-align: center;
+}
+.Zelena img
+{
+    float: left;
+    width: 400px;
+    height: 500px; 
+}
+.Crna img
+{
+    float: left;
+    width: 400px;
+    height: 500px;
+}
+.Crna 
+{
+    text-align: center;
+}
+.Odelo{
+    text-align: center;
+    margin-top: 120px;
+}
+.Odelo img
+{
+    float: left;
+    width: 400px;
+    height: 500px;
+}
+.Jakna
+{
+    float: left;
+    padding: 0px 10px; 
+    width: 250px;
+    text-align: center;
+}
+.Jakna img
+{ 
+    float: left;
+    width: 400px;
+    height: 500px;
+}
+.Jakna1
+{
+    float: left;
+    padding: 0px 10px; 
+    width: 250px;
+    text-align: center;
+    margin-top: 35px;
+}
+.Jakna1 img
+{
+    float: left;
+    width: 400px;
+    height: 500px;
+}
+.Haljina1
+{
+    float: left;
+    padding: 0px 10px; 
+    width: 250px;
+    text-align: center;
+}
+.Haljina1 img
+{
+    float: left;
+    width: 400px;
+    height: 500px;
+}
+.Torba
+{
+    float: left;
+    margin-left: 160px; 
+    margin-right: 160px;
+    padding: 0px 10px;
+}
+.Torba img
+{
+    float: left;
+    width: 350px;
+    height: 500px;
+    margin-right: 10%;
+}
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+} 
+li 
+{
+    float:left;
+}
+li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover
+{
+    background-color: #111;
+} 
+label
+{
+    color:black;
+}
+fieldset
+{
+   text-align: center;
+   background-color: white;
+   margin-bottom: 50px;
+   width: 90%;
+   margin-left: 5%;
+}
+.footer
+{
+    
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
